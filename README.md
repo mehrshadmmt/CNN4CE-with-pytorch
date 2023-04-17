@@ -1,37 +1,19 @@
-# Project Title
-
-Simple overview of use/purpose.
+# CNN4CE with pytorch
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This repository is from the Deep_CNN-Based_Channel_Estimation_for_mmWave_Massive_MIMO_Systems paper and the implemmentation of learning part changed from tensorflow to pytorch
 
 ## Getting Started
 
 ### Dependencies
+The notebook created in google colab 
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+### Dataset
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+The dataset and other matlab codes of this paper was came from the orginal paper. https://github.com/phdong21/CNN4CE
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
