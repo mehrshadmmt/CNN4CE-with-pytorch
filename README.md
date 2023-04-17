@@ -7,20 +7,15 @@ This repository is from the Deep_CNN-Based_Channel_Estimation_for_mmWave_Massive
 ## Getting Started
 
 ### Dependencies
-The notebook created in google colab 
+This notebook created in google colab.
 
 ### Dataset
 
-The dataset and other matlab codes of this paper was came from the orginal paper. https://github.com/phdong21/CNN4CE
+The dataset and other matlab codes of this paper was came from the orginal paper. 
+Inspiration, code snippets, etc.
+* [orginal paper repository](https://github.com/phdong21/CNN4CE)
 ### Executing program
 
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
@@ -31,14 +26,9 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
     * Initial Release
 
 ## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+@inproceedings{plummerCITE2018,
+Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
+Title = {Conditional Image-Text Embedding Networks},
+Booktitle  = {The European Conference on Computer Vision (ECCV)},
+Year = {2018}
+}
