@@ -14,21 +14,16 @@ This notebook created in google colab.
 The dataset and other matlab codes of this paper was came from the orginal paper. 
 Inspiration, code snippets, etc.
 * [orginal paper repository](https://github.com/phdong21/CNN4CE)
-### Executing program
+## Note
+Here are just the implementation for SF-CNN in pytorch. The rest of part will be uploaded.
 
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-@inproceedings{plummerCITE2018,
-Author = {Bryan A. Plummer and Paige Kordas and M. Hadi Kiapour and Shuai Zheng and Robinson Piramuthu and Svetlana Lazebnik},
-Title = {Conditional Image-Text Embedding Networks},
-Booktitle  = {The European Conference on Computer Vision (ECCV)},
-Year = {2018}
-}
+## Citation
+@ARTICLE{8752012,
+  author={Dong, Peihao and Zhang, Hua and Li, Geoffrey Ye and Gaspar, Ivan Simões and NaderiAlizadeh, Navid},
+  journal={IEEE Journal of Selected Topics in Signal Processing}, 
+  title={Deep CNN-Based Channel Estimation for mmWave Massive MIMO Systems}, 
+  year={2019},
+  volume={13},
+  number={5},
+  pages={989-1000},
+  doi={10.1109/JSTSP.2019.2925975}}
